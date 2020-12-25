@@ -1,0 +1,89 @@
+body
+{
+	background-color:black;
+}
+#Container
+{
+	background-color:#F88B75  ;
+	height:700px;
+	width:80%;
+	margin:0px auto;   
+
+}
+ #header h1
+{
+	color:white;
+	height:0px;
+	font-family: corbel ;
+}
+#header ul
+{
+	float:right;
+	
+	 
+}
+#header ul li
+{
+	display:inline;
+	margin-right:30px;
+	 
+
+}
+#header ul li a
+{
+	font-family:corbel;
+	color:white;
+	text-decoration:none;
+
+}
+#content1 h2
+{
+	color: #625D5C;
+	font-family: corbel;
+	font-size: 2em;
+	margin:0px auto;
+	text-align: center;
+	clear:both;
+	
+}
+#content2 h3
+{
+	font-family: corbel;
+	font-size:2.5em;
+	text-align:center;
+	color: white;
+	
+	margin: 0px auto;
+
+}
+#content3 
+{
+	font-family: corbel;
+	width: 50%;
+	height: 200px;
+	text-align: center;
+	color: white;
+	font-size: 1.3em;
+	
+	
+
+}
+#content3 ul a
+{
+	color: white;
+	background-color: #EE583B;
+	text-decoration: none;
+	border-bottom: #A91C00 4px solid;
+	padding: 10px;
+	
+	
+}
+#content4
+{
+	width: 50%;
+	height: 200px;
+	
+	float: right;
+	clear: both;
+	margin-left: 10px auto;
+}
